@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jungle.com" resolutions="1x" timestamp="1543339882302">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4131123284" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="yesevaone-regular.woff" crc="3859627628"/>
+    <file name="yesevaone-regular.eot" crc="531853355"/>
+    <file name="yesevaone-regular.svg" crc="4162750003"/>
+    <file name="gothampro.woff" crc="14326949"/>
+    <file name="gothampro.eot" crc="4222830733"/>
+    <file name="gothampro.svg" crc="4125233153"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u611.php" crc="3842820782" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="7.png" crc="440505006" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="449623297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38677770_282393189237779_1285492439066345472_n.jpg" crc="4158746552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38039076_502361980235078_443234367179849728_n.jpg" crc="3823103780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="36932781_251611925621777_1346135990011428864_n.jpg" crc="3778673058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="40412866_322052158531226_1651203688264573655_n.jpg" crc="183085586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="59lx8vrzsii.jpg" crc="3825406876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38799865_1369053013197447_3164100435573211136_n.jpg" crc="228157669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_studii_chb-crop-u665.jpg" crc="4019085738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="80202236" seo="true" mt="1543339843917" redirect="true"/>
+</manifest>

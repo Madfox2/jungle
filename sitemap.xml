@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://jungle.com/index.html</loc>
+    <lastmod>2018-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jungle.com/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/38677770_282393189237779_1285492439066345472_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/38039076_502361980235078_443234367179849728_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/36932781_251611925621777_1346135990011428864_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/40412866_322052158531226_1651203688264573655_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/59lx8vrzsii.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/38799865_1369053013197447_3164100435573211136_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/logo_studii_chb-crop-u665.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

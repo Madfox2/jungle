@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jungle.com" resolutions="1x" timestamp="1543339882302">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jungle.com" resolutions="1x" timestamp="1543432040575">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4131123284" ref="index"/>
+    <file name="index.css" crc="505251047" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="yesevaone-regular.woff" crc="3859627628"/>
@@ -50,9 +50,18 @@
     <file name="38799865_1369053013197447_3164100435573211136_n.jpg" crc="228157669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_studii_chb-crop-u665.jpg" crc="4019085738" seo="true" ref="index">
+    <file name="iconfinder_vk_1279056.svg" crc="3985299889" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="iconfinder_vk_1279056_poster_.png" crc="4205274275" ref="index"/>
+    <file name="iconfinder_instagram_solid_1435170.svg" crc="138630444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_instagram_solid_1435170_poster_.png" crc="104477407" ref="index"/>
+    <file name="logo-kon-gray.svg" crc="3883207484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo kon gray_poster_.png" crc="117683906" ref="index"/>
   </folder>
-  <file name="index.html" crc="80202236" seo="true" mt="1543339843917" redirect="true"/>
+  <file name="index.html" crc="4255072587" seo="true" mt="1543431996164" redirect="true"/>
 </manifest>

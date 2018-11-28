@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jungle.com/index.html</loc>
-    <lastmod>2018-11-27</lastmod>
+    <lastmod>2018-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -27,7 +27,13 @@
       <image:loc>http://jungle.com/images/38799865_1369053013197447_3164100435573211136_n.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jungle.com/images/logo_studii_chb-crop-u665.jpg</image:loc>
+      <image:loc>http://jungle.com/images/iconfinder_vk_1279056.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/iconfinder_instagram_solid_1435170.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungle.com/images/logo-kon-gray.svg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jungle.com" resolutions="1x" timestamp="1543432040575">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jungle.com" resolutions="1x" timestamp="1543487245726">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="505251047" ref="index"/>
+    <file name="index.css" crc="4076017303" ref="index"/>
   </folder>
   <folder name="fonts">
+    <file name="gothampro-light.woff" crc="3988008633"/>
+    <file name="gothampro-light.eot" crc="200393136"/>
+    <file name="gothampro-light.svg" crc="4128765251"/>
     <file name="yesevaone-regular.woff" crc="3859627628"/>
     <file name="yesevaone-regular.eot" crc="531853355"/>
     <file name="yesevaone-regular.svg" crc="4162750003"/>
-    <file name="gothampro.woff" crc="14326949"/>
-    <file name="gothampro.eot" crc="4222830733"/>
-    <file name="gothampro.svg" crc="4125233153"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,34 +22,39 @@
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u611.php" crc="3842820782" ref="index"/>
+    <file name="form-u611.php" crc="199141618" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="jungle-favicon.ico" crc="4278757252" ref="index"/>
     <file name="7.png" crc="440505006" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.png" crc="449623297" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="38677770_282393189237779_1285492439066345472_n.jpg" crc="4158746552" seo="true" ref="index">
+    <file name="38677770_282393189237779_1285492439066345472_n.jpg" crc="4255175614" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="38039076_502361980235078_443234367179849728_n.jpg" crc="3823103780" seo="true" ref="index">
+    <file name="38039076_502361980235078_443234367179849728_n.jpg" crc="3919322649" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="36932781_251611925621777_1346135990011428864_n.jpg" crc="3778673058" seo="true" ref="index">
+    <file name="36932781_251611925621777_1346135990011428864_n.jpg" crc="3779656629" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="40412866_322052158531226_1651203688264573655_n.jpg" crc="183085586" seo="true" ref="index">
+    <file name="40412866_322052158531226_1651203688264573655_n.jpg" crc="3766478601" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="59lx8vrzsii.jpg" crc="3825406876" seo="true" ref="index">
+    <file name="38799865_1369053013197447_3164100435573211136_n.jpg" crc="3760061723" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="38799865_1369053013197447_3164100435573211136_n.jpg" crc="228157669" seo="true" ref="index">
+    <file name="59lx8vrzsii.jpg" crc="317689206" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="iconfinder_instagram_solid_14351701.svg" crc="378880905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_instagram_solid_14351701_poster_.png" crc="4155496810" ref="index"/>
     <file name="iconfinder_vk_1279056.svg" crc="3985299889" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -63,5 +68,5 @@
     </file>
     <file name="logo kon gray_poster_.png" crc="117683906" ref="index"/>
   </folder>
-  <file name="index.html" crc="4255072587" seo="true" mt="1543431996164" redirect="true"/>
+  <file name="index.html" crc="4144972696" mt="1543487239167" redirect="true"/>
 </manifest>
